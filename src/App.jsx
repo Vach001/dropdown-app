@@ -1,5 +1,5 @@
 import React from "react"
-import CountrySelect from "./Components/SelectCountry/SelectCountry";
+import SelectCountry from "./Components/SelectCountry/SelectCountry";
 
 function App() {
   return (
